@@ -18,7 +18,7 @@ const SimpleForm = () => {
     <div>
       <form onSubmit={handleSubmit} className="bg-red-400 p-4 my-10">
         <input type="text" name="name" id="" />
-        <br />
+        {/* <br /> */}
         {/* <br /> */}
         <input onChange={handleChangeEmail} type="email" name="email" id="" />
         <br />
