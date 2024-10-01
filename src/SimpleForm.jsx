@@ -20,6 +20,7 @@ const SimpleForm = () => {
         <input type="text" name="name" id="" />
         <br />
         <br />
+        <br />
         <input onChange={handleChangeEmail} type="email" name="email" id="" />
         <br />
         <br />
