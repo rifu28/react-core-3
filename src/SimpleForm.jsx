@@ -9,11 +9,11 @@ const SimpleForm = () => {
   const handleChangeEmail = (e) => {
     setEmail(e.target.value);
   };
-  // const handleSubmit = (e) => {
-  //   e.preventDefault();
-  //   console.log(email);
-  //   console.log(password);
-  // };
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    console.log(email);
+    console.log(password);
+  };
   return (
     <div>
       <form onSubmit={handleSubmit} className="bg-red-400 p-4 my-10">
