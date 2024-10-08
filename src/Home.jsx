@@ -17,7 +17,7 @@ const Home = () => {
           Excepturi!
         </p>
 
-        <p className="w-2/3 border-2 p-4">
+        {/* <p className="w-2/3 border-2 p-4">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
           temporibus odio reprehenderit, a, nemo possimus provident voluptatum
           suscipit error deleniti ipsum assumenda aperiam officia esse
@@ -25,7 +25,7 @@ const Home = () => {
           facilis nulla placeat necessitatibus porro, voluptates nam aliquam
           eligendi, provident ipsum ullam reiciendis iure quibusdam aspernatur.
           Excepturi!
-        </p>
+        </p> */}
       </div>
       <SimpleForm></SimpleForm>
     </div>
