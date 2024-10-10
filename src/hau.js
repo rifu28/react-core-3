@@ -11,3 +11,4 @@ const prices = products.map((product) => {
 });
 console.log(nam);
 console.log(prices);
+console.log(products[1]);
